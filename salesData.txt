@@ -1,0 +1,10 @@
+2023-05-31
+17:06:22.262211
+Main$Cupcake@15aeb7ab
+Main$Chocolate@7b23ec81
+Main$Drink@6acbcfc0
+Main$Soda@5f184fc6
+
+2023-05-31
+21:24:18.503563
+Main$Milk@15aeb7ab
